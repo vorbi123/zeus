@@ -222,7 +222,7 @@ function create_config( )
     },
     sudo_users = {37194141,104590943,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {73388471,37194141,104590943},--Realms Id
+    realm = {73388471},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v1
 An advance Administration bot based on yagop/telegram-bot 
