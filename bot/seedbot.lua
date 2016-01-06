@@ -244,7 +244,7 @@ Our channels
 @teleseedch [English]
 ]],
     help_text = [[
-Commands list :
+:لیست دستورات
 
 !kick [username|id]
 You can also do it by reply
